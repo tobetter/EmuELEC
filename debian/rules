@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+# Copyright (C) 2021 Dongjin Kim
+
+%:
+	dh $@
+
